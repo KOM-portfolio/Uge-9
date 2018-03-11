@@ -1,13 +1,7 @@
-/AsteroidsServiceLoader/Common/target/
-/AsteroidsServiceLoader/Core/target/
-/AsteroidsServiceLoader/Player/target/
-/AsteroidsServiceLoader/Enemy/target/
 /RuntimeContainerWithNBModules/nbproject/private/
 /RuntimeContainerWithNBModules/build/
 /RuntimeContainerWithNBModules/TestModuleToLoad/build/
 /RuntimeContainerWithNBModules/TestModuleToLoad/nbproject/private/
-/AsteroidsNBModules/branding/target/
-/AsteroidsNBModules/application/target/
 /AsteroidNBModules/application/target/
 /AsteroidNBModules/branding/target/
 /AsteroidNBModules/Common/target/
